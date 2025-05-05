@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Well-Styled Page</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1 id="page-title">Welcome to My Portfolio</h1>
+  </header>
+
+  <section class="intro">
+    <p>Hello! I'm currently learning web development. This page shows how CSS can improve readability and design.</p>
+  </section>
+
+  <img src="https://via.placeholder.com/300x200" alt="Sample Project" class="project-image" />
+
+  <section class="content-box">
+    <h2 class="section-title">Project Highlight</h2>
+    <p>This project demonstrates the use of CSS selectors, external stylesheets, and layout styling for better presentation.</p>
+  </section>
+
+</body>
+</html>
